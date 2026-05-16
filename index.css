@@ -1,0 +1,48 @@
+.nav-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 27px;
+    text-transform: uppercase;
+}
+
+.img {
+
+    position: absolute;
+    top: 30%;
+    left: 50%;
+}
+
+#img3 {
+    transform: translate(-50%, -50%) rotate(0deg);
+    background: url("./image/image3.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#img2 {
+    transform: translate(-50%, -50%) rotate(7deg);
+    background: url("./image/image2.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#img1 {
+    transform: translate(-50%, -50%) rotate(14deg);
+    background: url("./image/image1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.hero-text {
+    font-family: "Montserrat", sans-serif;
+    font-size: 11vw;
+    text-transform: uppercase;
+    font-weight: 320;
+    line-height: 0.8;
+}
+
+.footer-text {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+}
