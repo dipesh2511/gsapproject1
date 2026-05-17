@@ -9,7 +9,7 @@ timeline.from(".nav-text", {
 })
 
 timeline.from(".hero-text", {
-    opacity: 0.1,
+    opacity: 0,
     left: '-1000px',
     duration: 1.5,
     stagger: 0.5,
