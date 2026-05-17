@@ -28,7 +28,7 @@ timeline.from(".img", {
 })
 
 timeline.from(".footer-text", {
-    opacity: 0.1,
+    opacity: 0,
     y: -100,
     duration: 1.5,
     scale: 0.5,
